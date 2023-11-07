@@ -1,0 +1,18 @@
+.di{
+    background-color:deeppink;
+    height: 100%;
+    width: 50%;
+    margin: auto;
+}
+div{
+    background-color:chartreuse;
+}
+button{
+    width: 5%;
+    height: 20%;
+    border-radius: 50%;
+    margin-left: 80%;
+    background-color: red
+    
+;
+}
