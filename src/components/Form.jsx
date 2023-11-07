@@ -28,7 +28,7 @@ export default function Form() {
 
 {shide &&
   <>
-<p>your first name is{fname}</p>
+<p>your first name{fname}</p>
 <p>your last name is{lname}</p>
 </>
 }
